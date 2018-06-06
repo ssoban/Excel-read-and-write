@@ -11,7 +11,7 @@ String s3=s1.nextLine();
 		for(int i=s4-1;i>=0;i--){
 			System.out.print(s3.charAt(i));
 		}
-
+//second comit
 	}
 	
 }
